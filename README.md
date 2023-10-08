@@ -1,5 +1,5 @@
 # Retail-off
-Ionic app, with firebase login, geolocation API, NodeJS, Angular, TypeScript, functions lambda and mongoDB
+Ionic app, with firebase login,AWS Api, geolocation API, NodeJS, Angular, TypeScript, functions lambda and mongoDB
 
 
 Home, Login, Register and Firebase
